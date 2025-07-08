@@ -2,7 +2,7 @@
 
 ## Projeto final de DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS
 
-Isabella Urdiali Miranda - GU3046451
+Isabella Urdiali Miranda - GU3046451 e
 Maria Fernanda Barreto dos Anjos - GU3042791
 
 ### ⚙ Para utilizar o projeto
