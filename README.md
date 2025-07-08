@@ -10,7 +10,7 @@ Maria Fernanda Barreto dos Anjos - GU3042791
 1. Execute o clone no seu terminal.
 
 ```bash
-git clone https://github.com/RafaelR4mos/challenge-react-native-shop-list.git 
+git clone https://github.com/IsaUrdiali/gym-app.git
 ```
 
 2. Instale as dependências do projeto 
